@@ -1,14 +1,18 @@
+<img style="width:200px;" align="right" src="https://user-images.githubusercontent.com/61975/134493896-0d30aecb-b6bc-4481-8563-d46044b3dd09.png" />
+
 ## Hello! 👋
+
 #### I'm a Senior, Full Stack, Cloud Native Engineer currently working in FinTech
 
-
----
+<div style="height: 100px;">&nbsp;</div>
 
 ### About Me
 
 I am a senior full-stack engineer with a passion for for building. I have 10+ years experience across agencies, startups & established organisations.
 
 I'm an accomplished generalist, starting a lifetime ago with Flash / Flex, then Ruby and these days I spend most of my time in TypeScript, the JavaScript ecosystem and in the cloud.
+
+<div style="height: 50px;">&nbsp;</div>
 
 ### Tech Stack
 
@@ -40,19 +44,3 @@ I'm an accomplished generalist, starting a lifetime ago with Flash / Flex, then 
 ![Cognito](https://img.shields.io/badge/-Cognito-232F3E?logo=amazon-aws&logoColor=FF9900)
 ![IAM](https://img.shields.io/badge/-IAM-232F3E?logo=amazon-aws&logoColor=FF9900)
 ![S3](https://img.shields.io/badge/-S3-232F3E?logo=amazon-aws&logoColor=FF9900)
-
-
-<!--
-**craigtsmith/craigtsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
