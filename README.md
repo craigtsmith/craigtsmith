@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hello! 👋
+#### I'm a Senior, Full Stack, Cloud Native Engineer currently working in FinTech
+
+
+---
+
+### About Me
 
 <!--
 **craigtsmith/craigtsmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
