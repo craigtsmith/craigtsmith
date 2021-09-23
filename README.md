@@ -18,12 +18,12 @@ I'm an accomplished generalist, starting a lifetime ago with Flash / Flex, then 
 
 **Languages:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
-![JSON](https://img.shields.io/badge/-JSON-black?logo=json)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333)
+![JSON](https://img.shields.io/badge/-JSON-333333?logo=json)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3)
 ![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby)
-![Markdown](https://img.shields.io/badge/-Markdown-black?logo=markdown)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?logo=markdown)
 
 **Frameworks:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
@@ -31,7 +31,7 @@ I'm an accomplished generalist, starting a lifetime ago with Flash / Flex, then 
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white)
 ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-black?logo=express)
+![Express](https://img.shields.io/badge/-Express-333333?logo=express)
 ![Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white)
 
 **AWS:**
