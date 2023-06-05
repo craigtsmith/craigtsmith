@@ -1,46 +1,31 @@
-<img style="width:200px;" align="right" src="https://user-images.githubusercontent.com/61975/134493896-0d30aecb-b6bc-4481-8563-d46044b3dd09.png" />
+# Hello! 👋
 
-## Hello! 👋
-
-#### I'm a Senior, Full Stack, Cloud Native Engineer currently working in FinTech
+I'm Craig, a Senior Full Stack Engineer with a strong focus on Cloud Native development. I have a passion for building innovative solutions that harness the power of AI.
 
 <div style="height: 100px;">&nbsp;</div>
 
 ### About Me
 
-I am a senior full-stack engineer with a passion for for building. I have 10+ years experience across agencies, startups & established organisations.
+With years (and years 👴) of experience across agencies, startups, and established organizations, I consider myself an accomplished generalist. I've had the privilege of working with various technologies, starting from the Flash/Flex era to Ruby, and nowadays, I dedicate most of my time to TypeScript and the vast JavaScript ecosystem, all while leveraging the capabilities of the cloud and tending to my homelab (or digital garden as i prefer to call it)
 
-I'm an accomplished generalist, starting a lifetime ago with Flash / Flex, then Ruby and these days I spend most of my time in TypeScript, the JavaScript ecosystem and in the cloud.
+### Embracing the Power of AI
+
+What truly excites me though is the ever-evolving field of Artificial Intelligence. I believe that AI has the potential to revolutionize the way we approach problem-solving and create meaningful impact across industries. My goal is to leverage my technical expertise to build intelligent and scalable applications while constantly expanding my knowledge in AI technologies. 🤖
 
 <div style="height: 50px;">&nbsp;</div>
 
-### Tech Stack
+### Stack
 
-**Languages:**
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=333333)
-![JSON](https://img.shields.io/badge/-JSON-333333?logo=json)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3)
-![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby)
-![Markdown](https://img.shields.io/badge/-Markdown-333333?logo=markdown)
-
-**Frameworks:**
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Gatsby](https://img.shields.io/badge/-Gatsby-663399?logo=gatsby&logoColor=white)
-![Storybook](https://img.shields.io/badge/-Storybook-FF4785?logo=storybook&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-333333?logo=express)
-![Rails](https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 
-**AWS:**
-![CDK](https://img.shields.io/badge/-CDK-232F3E?logo=amazon-aws&logoColor=FF9900)
-![Lambda](https://img.shields.io/badge/-Lambda-232F3E?logo=amazon-aws&logoColor=FF9900)
-![Step Functions](https://img.shields.io/badge/-Step%20Functions-232F3E?logo=amazon-aws&logoColor=FF9900)
-![SNS](https://img.shields.io/badge/-SNS-232F3E?logo=amazon-aws&logoColor=FF9900)
-![SQS](https://img.shields.io/badge/-SQS-232F3E?logo=amazon-aws&logoColor=FF9900)
-![ECS](https://img.shields.io/badge/-ECS-232F3E?logo=amazon-aws&logoColor=FF9900)
-![Cognito](https://img.shields.io/badge/-Cognito-232F3E?logo=amazon-aws&logoColor=FF9900)
-![IAM](https://img.shields.io/badge/-IAM-232F3E?logo=amazon-aws&logoColor=FF9900)
-![S3](https://img.shields.io/badge/-S3-232F3E?logo=amazon-aws&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Portainer](https://img.shields.io/badge/-Portainer-13B5EA?logo=portainer&logoColor=white)
+![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white)
+![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?logo=home-assistant&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-FF5500?logo=openai&logoColor=white)
