@@ -1,8 +1,8 @@
 # Hello! 👋
 
-I'm Craig, a Senior Full Stack Engineer with a strong focus on Cloud Native development. I have a passion for building innovative solutions that harness the power of AI.
+I'm Craig, a Senior Full Stack Engineer with a strong focus on Cloud Native development.
 
-<div style="height: 100px;">&nbsp;</div>
+<div style="height: 80px;">&nbsp;</div>
 
 ### About Me
 
@@ -10,7 +10,7 @@ With years (and years 👴) of experience across agencies, startups, and establi
 
 ### Embracing the Power of AI
 
-What truly excites me though is the ever-evolving field of Artificial Intelligence. I believe that AI has the potential to revolutionize the way we approach problem-solving and create meaningful impact across industries. My goal is to leverage my technical expertise to build intelligent and scalable applications while constantly expanding my knowledge in AI technologies. 🤖
+What truly excites me though is the ever-evolving field of AI & LLMs. I believe this has the potential to revolutionize the way we approach problem-solving and create meaningful impact across industries. My goal is to leverage my technical expertise to build intelligent and scalable applications while constantly expanding my knowledge in AI technologies. 🤖
 
 <div style="height: 50px;">&nbsp;</div>
 
